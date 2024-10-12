@@ -1,4 +1,4 @@
-﻿Date,Fuel Type,Fuel Consumption (Tons),Boiler Efficiency (%),Ambient Temperature (°C),Stack Height (m),Wind Speed (m/s),Flue Gas Temperature (°C),SO2 Emission (ppm),NOx Emission (ppm),Particulate Matter (mg/m³),CO2 Emission (Tons),Response Variable: Total Pollutants Emitted (kg)
+﻿Date,Fuel Type,Fuel Consumption (Tons),Boiler Efficiency (%),Ambient Temperature (°C),Stack Height (m),Wind Speed (m/s),Flue Gas Temperature (°C),SO2 Emission (ppm),NOx Emission (ppm),Particulate Matter (mg/m³),CO2 Emission (Tons),Total Pollutants Emitted (kg)
 02-03-2023,Biomass,491,80.1,34,124,3.4,280,186,142,61,452,428.624
 03-03-2023,Coal,576,89.4,38,144,1.7,312,400,110,117,815,460.784
 04-03-2023,Biomass,460,85.6,28,140,2.4,290,153,191,81,646,578.802
